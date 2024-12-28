@@ -41,7 +41,7 @@ Estamos construindo um futuro onde o "pedir" e "oferecer" sejam mais rápidos, p
 
 ## 🤝 **Como Usar ou Apoiar o DigiDapio**
 
-1. **Clientes:** Acesse nossa plataforma [aqui](https://digidapio.vercel.app/) e crie seu cardápio em poucos minutos.
+1. **Clientes:** Acesse nossa plataforma [aqui](https://digidapio.com/) e crie seu cardápio em poucos minutos.
 2. **Colaboradores:** Interessado em fazer parte do projeto? Entre em contato ou envie um Pull Request.
 3. **Investidores:** Estamos abertos a parcerias para levar o DigiDapio a novos mercados e aprimorar ainda mais sua funcionalidade.
 
@@ -51,7 +51,7 @@ Estamos construindo um futuro onde o "pedir" e "oferecer" sejam mais rápidos, p
 
 Quer saber mais? Entre em contato conosco:
 - **E-mail:** digiDapio@gmail.com
-- **Website:** [DigiDapio](https://digidapio.vercel.app/)
+- **Website:** [DigiDapio](https://digidapio.com/)
 
 
 ---
